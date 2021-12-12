@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  JavaHome App Version-41</h1>
+
+<h1 style="color:blue;">A Blue Heading</h1>
+
+<p style="color:red;">A red paragraph.</p>
+
 </body>
 </html>
